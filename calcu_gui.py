@@ -412,7 +412,6 @@ class Calculator_GUI:
             pass
 
         except ZeroDivisionError:
-            print("MUSEEE!!!")
             pass
 
     def clear(self):
